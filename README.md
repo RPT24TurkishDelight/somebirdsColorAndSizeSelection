@@ -1,6 +1,8 @@
 # somebirdsColorAndSizeSelection
 Shoe color &amp; size selection service
 
+![Alt text](/sampleScreenshot.png?raw=true "Optional Title")
+
 ## Repo Setup
 ### Run npm install
 ```
